@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Selfie</string>
+    <string name="get_picture_button_text">Get Picture</string>
+    <string name="description_imageView">Contains the current taken picture</string>
+</resources>
